@@ -1,0 +1,13 @@
+{
+  "botToken": "MTAwMDE3OTY5NzQxNTYzNDk1NQ.G8INQH.zQ2NcLPb7NBpXcCw1oEB4T6yNZGf0ga6oGIPBs",
+  "logs_channel_id": "998541045551874165",
+
+  "prefix": "£",
+  "command_name": "VB",
+
+  "give_role": true,
+  "role_name": "members",
+
+  "mass_dm": 0,
+  "message": "MESSAGE-HERE"
+}
